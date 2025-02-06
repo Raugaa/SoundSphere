@@ -6,6 +6,10 @@
 
 ---
 
+## 🌐 Live Demo  
+Check out the live demo of the project here: [SoundSphere App](https://soundsphere-app.vercel.app/)
+
+---
 ## 🚀 Features  
 ✅ **Responsive UI** - Optimized for all screen sizes  
 ✅ **Custom Playlists** - Create and manage your own playlists  
